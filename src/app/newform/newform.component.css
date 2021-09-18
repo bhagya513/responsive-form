@@ -1,0 +1,15 @@
+h3 {
+    text-align: center;
+}
+.p {
+    text-align: center;
+}
+.card1 {
+    background-color: lightblue;
+    width: 70%;
+    margin: auto;
+    height: auto;
+}
+.card-bg {
+    background-color: lightblue;
+}
